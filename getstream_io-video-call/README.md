@@ -1,3 +1,7 @@
+# Documentation
+- https://getstream.io/video/sdk/react/tutorial/audio-room/
+- https://getstream.io/video/docs/react/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
